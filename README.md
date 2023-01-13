@@ -1,13 +1,18 @@
 # Welcome to my GitHub profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
-**I am a Front-end developer from Belarus**
-- 🌱 At the moment, i am studying Front-end developoment and technologies related to it.
-- ⚡ In my free time, i prefer to relax or do some hobby.
+### **Arseni Halubtosu**
+
+### **Front-end developer**
+
+### **Years old: 20**
+
+- 🌱 At the moment, i am studying Front-end developoment and technologies related to it
+- ⚡ In my free time, i prefer to relax or do some hobby
 - 📫 How to reach me: [Spring.fox@list.ru](mailto:spring.fox@list.ru)
 
-## 🍃 Summary:
+## 🍃 Summary
 **Young and responsible, i quickly learn new material, well organized, i know how to solve problems, help and work in a team, creative and logical mindset.** 
 
-## 🎓 Education:
+## 🎓 Education
 **2017-2020: Mogilev State Economic Professional Technical College**
 
 *Speciality: Computer operator*
@@ -16,7 +21,7 @@
 
 *Speciality: JavaScript/Front-end developer*
 
-## 🛠️ Languages and Tools:
+## 🛠️ Languages and Tools
 <a href="#"><img src="https://img.shields.io/badge/HTML-e54d26?style=flat&logo=html5&logoColor=ffffff" alt="HTML"/></a>
 <a href="#"><img src="https://img.shields.io/badge/CSS-006eba?style=flat&logo=css3&logoColor=ffffff" alt="CSS"/></a>
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-ffde24?style=flat&logo=javascript&logoColor=000000" alt="JavaScript"/></a>
