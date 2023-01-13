@@ -5,7 +5,7 @@
 - 📫 How to reach me: [Spring.fox@list.ru](mailto:spring.fox@list.ru)
 
 ## 🍃 Summary:
-**Young and responsible, I quickly learn new material, well organized, I know how to solve problems, help and work in a team, creative and logical mindset.** 
+**Young and responsible, i quickly learn new material, well organized, i know how to solve problems, help and work in a team, creative and logical mindset.** 
 
 ## 🎓 Education:
 **2017-2020: Mogilev State Economic Professional Technical College**
