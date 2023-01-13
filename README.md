@@ -26,7 +26,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Photoshop-31a8ff?style=flat&logo=adobephotoshop&logoColor=001e36" alt="Photoshop"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Illustartor-ff9b00?style=flat&logo=adobeillustrator&logoColor=300000" alt="Illustrator"/></a>
 
-## Code example
+## 💻 Code example
 ```js
 function otherAngle(a, b) {
    return 180 - a - b;
