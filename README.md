@@ -1,9 +1,5 @@
 # Welcome to my GitHub profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
-### **Arseni Halubtosu**
-
-### **Front-end developer**
-
-### **Years old: 20**
+### Arseni Halubtsou | years old: 20
 
 - 🌱 At the moment, i am studying Front-end developoment and technologies related to it
 - ⚡ In my free time, i prefer to relax or do some hobby
